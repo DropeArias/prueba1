@@ -13,6 +13,7 @@ namespace PruebaGif
             
             Console.WriteLine("tercer cabio");
             Console.WriteLine("cuarto cabio");
+            Console.WriteLine("quinto cabio");
 
 
         }
