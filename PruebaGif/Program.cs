@@ -10,6 +10,8 @@ namespace PruebaGif
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("primer cabio");
+            Console.WriteLine("segundo cambio cabio");
         }
     }
 }
